@@ -1,3 +1,6 @@
+Fast matrix multiply using morton Z ordering of input matrix.                                          
+Also contains comparisons with regular implementations without using any ordering
+
 ##################################
 #### make all          - to compile all programs
 #### make oblivious    - compile oblivious
