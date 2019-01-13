@@ -1,0 +1,10 @@
+##################################
+#### make all          - to compile all programs
+#### make oblivious    - compile oblivious
+#### make morton       - compile regular morton
+#### make morton_opt   - compile optimized morton
+#### make mixed        - compile mixed.c
+#### make clean        - clean the directory
+##################################
+#
+# Matrix multiply output is in matrix_mul.txt
